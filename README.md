@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I am currently working on updating the procedures of my current company, currently implanting a fingerprint reader in the laundry system I made
+- 🔭 I am currently working on updating the procedures of my current company, I have already developed for it, systems for managing and generating budgets, and stock control systems for laundries
 - 🌱 I’m currently learning stack javascript, node.js, react, next....
 - 👯 I’m looking to collaborate on a friend's system developed in python to manage the company's operations, my job is to develop the api that will calculate the budget, and save it in the DB.
 - 🤔 I’m looking for help with improve my paterns
